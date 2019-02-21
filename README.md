@@ -7,7 +7,7 @@ rinda 3
 ## 4.nodarbība
 u name - linux  
 u name -a - ubuntu  
-echo $0 bash
+echo $0 - bash
 failu sistēma - ieslēdot datoru atrodos  
 Whoami - Kas es esmu sistēmā ?  
 pwd - Kur es esmu?  
