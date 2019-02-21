@@ -5,7 +5,7 @@ rinda 1
 rinda 2
 rinda 3
 ## 4.nodarbība
-u name - linux
+u name - linux  
 u name -a - ubuntu
 echo $0 bash
 failu sistēma - ieslēdot datoru atrodos
