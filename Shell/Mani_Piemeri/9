@@ -1,0 +1,5 @@
+
+#!/bin/sh
+
+ls -la > listings
+echo "All running processes" >> listings
