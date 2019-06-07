@@ -1,0 +1,8 @@
+#!/bin/sh
+
+Name[0]="Janis"
+Name[1]="Janitis"
+
+echo "First Index: ${Name[0]}"
+echo "Second Index: ${Name[1]}"
+echo "All Indexes: ${Name[@]}"

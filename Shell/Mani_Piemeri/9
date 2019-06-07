@@ -1,0 +1,18 @@
+#!/bin/sh
+
+func(){
+clear
+echo "=========="
+date
+echo "=========="
+}
+
+func 
+echo "Hi"
+sleep 2
+func
+echo "Hi Again"
+sleep 2
+func
+echo "Bye :("
+sleep 2

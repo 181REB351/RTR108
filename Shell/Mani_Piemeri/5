@@ -1,0 +1,4 @@
+#!/bin/sh
+
+val1=`expr 2 + 2 \* 2`
+echo "Correct answer : $val1"

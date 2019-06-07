@@ -1,0 +1,6 @@
+#!/bin/sh
+
+for i in {2..20..3}
+do
+echo "Welcome $i times"
+done

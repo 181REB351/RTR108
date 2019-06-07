@@ -1,0 +1,11 @@
+#!/bin/sh
+
+for i in {1..7..1}
+
+do
+if [ $i -eq 3 -o $i -eq 5 ]
+then
+continue
+fi
+echo "$i"
+done

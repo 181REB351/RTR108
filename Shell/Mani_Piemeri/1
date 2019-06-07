@@ -1,0 +1,5 @@
+#!/bin/sh
+
+echo "What is your favorite city ?"
+read CITY
+echo "$CITY is beautiful"
